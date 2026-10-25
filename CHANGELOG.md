@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-rlakoselj/compare/v1.0.0...v1.1.0) (2026-10-25)
+
+
+### Features
+
+* add Ollama client, CLI and tests ([9c72764](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-rlakoselj/commit/9c72764b7f88baaefa598b16322a167bc0bec10e))
+* add Ollama client, CLI and tests ([205388a](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-rlakoselj/commit/205388a5b44bec7bfe20aae263ce923640bfbf4d))
+
 ## [1.0.0](https://github.com/unipu-praktikum-razvojne-operacije/praktikum-rlakoselj/compare/v0.0.1...v1.0.0) (2026-10-19)
 
 
